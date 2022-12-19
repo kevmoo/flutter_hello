@@ -2,6 +2,7 @@
     "name": "flutter_hello",
     "short_name": "flutter_hello",
     "start_url": ".",
+    "id": "/flutter_hello/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
